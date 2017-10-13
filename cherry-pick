@@ -1,0 +1,6 @@
+#!/bin/bash
+cherry_pick_branch=$1
+current_branch=$(git branch | awk '{print $2}')
+cherry_commit_id=$(git log | head -1 | awk '{print $2}')
+
+git checkout $cherry_pick_branch;git cherry-pick $cherry_commit_id;git checkout $current_branch
