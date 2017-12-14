@@ -59,4 +59,17 @@ then
     echo "no result"
 fi
 
+#func params
+function date_get(){
+    t=$1
+    if [ -z "$t" ]
+    then
+        exit 1
+    else 
+        echo "$t"
+    fi
+}
 
+date=$(date_get "$(date "+%G-%m-%d %H:%M:%S")")
+echo $date
+echo $date
