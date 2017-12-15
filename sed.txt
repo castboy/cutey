@@ -245,6 +245,81 @@ export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
 export JRE_HOME=$JAVA_HOME/jre
 wmgy
 export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib.dt.jar:$JAVA_HOME/lib/tools.jar
+export JRE_HOME=$JAVA_HOME/jre
+wmgy
+export JAVA_HOME=/opt/tool/jdk
 wmgy
 export JAVA_HOME=/opt/tool/jdk
 wmgy
@@ -270,6 +345,21 @@ asfafff
 asfafd!
 asfa!
 # This is a test
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
+# This is one line appended
 # This is one line appended
 # This is one line appended
 # This is one line appended

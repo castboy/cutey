@@ -59,17 +59,26 @@ then
     echo "no result"
 fi
 
+function log() {
+    echo "$1" >> log
+    if [ -z $2]
+    then
+        echo "\$2 null"
+    fi
+}
+
 #func params
 function date_get(){
     t=$1
     if [ -z "$t" ]
     then
-        exit 1
-    else 
         echo "$t"
+    else 
+        log "$2"
+        echo "$t"
+        exit 1
     fi
 }
 
-date=$(date_get "$(date "+%G-%m-%d %H:%M:%S")")
-echo $date
+date=$(date_get "$(date "+%G-%m-%d %H:%M:%S")" "get time")
 echo $date
